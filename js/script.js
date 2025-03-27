@@ -1,39 +1,39 @@
-// const celsius = prompt("Введіть значення")
-// const  fahrenheit = celsius * 9/5;
-// console.log(fahrenheit);
+const celsius = prompt("Введіть значення")
+const  fahrenheit = celsius * 9/5;
+console.log(fahrenheit);
 
 // ==================
 
-// const daysInMonth = prompt("Введіть кількість днів")
-// const hoursInMonth = daysInMonth * 24;
-// const minutesInMonth = hoursInMonth * 60;
-// console.log(hoursInMonth);
-// console.log(minutesInMonth);
+const daysInMonth = prompt("Введіть кількість днів")
+const hoursInMonth = daysInMonth * 24;
+const minutesInMonth = hoursInMonth * 60;
+console.log(hoursInMonth);
+console.log(minutesInMonth);
 
 // ==================
 
-// const damage = prompt("Введіть кількість домагу");
+const damage = prompt("Введіть кількість домагу");
 
-// const health = (100 - damage);
-// const energy =  (100 - damage - 15);
+const health = (100 - damage);
+const energy =  (100 - damage - 15);
 
-// console.log(damage);
-// console.log(health);
-// console.log(energy);
+console.log(damage);
+console.log(health);
+console.log(energy);
 
 // ==================
 
-// const a = prompt("Скільки хочете взяти піц ціна за 1 шт 150грн") * 150;
-// const b = prompt("Скільки хочете взяти напоїв ціна за 1 шт 25грн") * 25;
-// const c = prompt("чи бажаєте взяти красиву упаковку так = 1 ні = 0 ціна упаковки 35грн") * 35;
-// console.log(a);
-// console.log(b);
-// console.log(c);
-//  const totalPrice = a + b + c;
-//  const promo = prompt("Введіть промокод")
-//  const discount = totalPrice * 0.9;
-//  console.log(totalPrice);
-//  console.log(discount);
+const a = prompt("Скільки хочете взяти піц ціна за 1 шт 150грн") * 150;
+const b = prompt("Скільки хочете взяти напоїв ціна за 1 шт 25грн") * 25;
+const c = prompt("чи бажаєте взяти красиву упаковку так = 1 ні = 0 ціна упаковки 35грн") * 35;
+console.log(a);
+console.log(b);
+console.log(c);
+ const totalPrice = a + b + c;
+ const promo = prompt("Введіть промокод")
+ const discount = totalPrice * 0.9;
+ console.log(totalPrice);
+ console.log(discount);
 
 //  ==================
 
